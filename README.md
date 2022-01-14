@@ -9,6 +9,8 @@ Deploy your own Ionic Angular project with Vercel.
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/ionic-angular&template=ionic-angular)
 
 _Live Example: https://ionic-angular.now-examples.now.sh_
+![Screenshot (784)](https://user-images.githubusercontent.com/75971776/149553426-72585665-d5cd-4781-8665-693c55fec5f6.png)
+
 
 ### How We Created This Example
 
